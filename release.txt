@@ -12,9 +12,9 @@ Features in this release
 | Responsive home page with services, about, industries, projects, reviews, before & after, service locator and contact sections; Get a Quote opens an email to Quick Replace (client request) | PB-08, PB-13 |
 | Six featured services on the home page (Plumbing, Electrical, Glazing, Locksmith, Painting & Plastering, Make Safe) and a Services page listing all 21 services | PB-09 |
 | 21 service detail pages | PB-09, PB-15 |
-| Services search by trade name or problem description, with optional in-browser AI matching | PB-09 (to add to backlog) |
-| Post code coverage checker with map | To add to backlog |
-| Our Work gallery, About Us, Clients, Privacy Policy and Terms pages | PB-10 |
+| Services search by trade name or problem description, with optional in-browser AI matching | PB-09, PB-46 |
+| Post code coverage checker with map | PB-36 |
+| Our Work gallery, About Us, Clients, Privacy Policy and Terms pages | PB-10, PB-33, PB-34, PB-47, PB-48 |
 | Contact page enquiry and quote form with photo/video upload (up to 5 files, 18MB), emailed to Quick Replace | PB-11, PB-13, PB-14 |
 | Consistent header, mobile menu and footer; Call Now and Email actions | PB-11, PB-12 |
 | SEO: prerendered HTML for 29 pages, unique titles and descriptions, canonical URLs, structured data, sitemap.xml, robots.txt, real 404 page | PB-15, PB-16 |
